@@ -12,16 +12,8 @@ A simple project that creates a small SQLite database, runs basic SQL queries, a
 ## How to Run
 ```bash
 pip install pandas matplotlib
-python analysis.py
+python analysis.py  
 
-Output
 
-Printed sales summary in terminal
 
-Bar chart: sales_chart.png
 
-SQLite database: sales_data.db
-
-Tech Used
-
-Python, SQLite (sqlite3), Pandas, Matplotlib
